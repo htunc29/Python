@@ -1,0 +1,11 @@
+mesaj="Benim Adım Hüseyin Soyadım Tunç"
+karakterSayisi=len(mesaj)
+print(mesaj[0]) 
+print(mesaj[-1])
+print(mesaj[karakterSayisi-1])
+print(mesaj[0:5])
+print(mesaj[:5])
+print(mesaj[5:10])
+print(mesaj[10:])
+print(mesaj[::1])
+print(mesaj[::-1])
