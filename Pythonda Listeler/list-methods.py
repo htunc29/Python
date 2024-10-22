@@ -1,0 +1,15 @@
+sayilar=[1,3,5,7,9,5,45]
+harfler=["a","b","c","d"]
+sayilar.append(77)
+sayilar.insert(3,54)
+sayilar.pop()
+sayilar.pop(0)
+print(min(sayilar))
+print(max(sayilar))
+print(min(harfler))
+print(max(harfler))
+sayilar.sort()
+deger=sayilar.count(5)
+print(sayilar)
+print(deger)
+print(sayilar.index(45))
