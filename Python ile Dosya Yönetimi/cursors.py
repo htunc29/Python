@@ -1,0 +1,6 @@
+f=open("msg.txt",encoding="UTF-8")
+# print(f.read())
+# f.seek(2)
+# print(f.read())
+print(f.readline())
+print(f.readline())
