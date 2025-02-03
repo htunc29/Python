@@ -65,3 +65,17 @@ elif(gun>=365) and (gun<=365*2):
     print("2.Servis Bakımı")
 else:
     print("3.Servis Bakımı")
+    '''
+    4- Girilen kiloya ve boya göre vücut kitle endeksini hesaplayıp
+    durum değerlendirmesi yapınız.
+    (18.5 altı: Zayıf, 18.5-24.9: Normal, 25-29.9: Fazla Kilolu, 30+: Obez)
+    '''
+
+    '''
+    5- Girilen 3 sayıyı büyükten küçüğe sıralayan programı yazınız
+    '''
+
+    '''
+    6- Girilen yılın artık yıl olup olmadığını kontrol eden programı yazınız
+    (Artık yıl: 4'e tam bölünüp 100'e bölünemeyen veya 400'e tam bölünebilen yıl)
+    '''

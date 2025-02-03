@@ -1,7 +1,7 @@
 website="http://www.vekaletim.com"
 kursAdi="Python Dersleri: Baştan Sona Python Programlama"
-print(len(kursAdi))
-print(website[7:10])
+print(len(kursAdi)) #karakter sayısı
+print(website[7:10]) #7 ile 10 arası Der
 print(website[-4:])
 print(website[:15])
 print(website[-15:])

@@ -12,9 +12,9 @@ km=int(input("How many kilometers ? :"))
 
 total=unitfuel*(km/100)
 if(fueltype=="benzin"):
-    print(f"{km} yolda bu arac {int(total*benzin)} ₺ yakıt tüketir")
+    print(f"{km} km yolda bu arac {int(total*benzin)} ₺ yakıt tüketir")
 else:
-    print(f"{km} yolda bu arac {int(total*dizel)} ₺ yakıt tüketir")
+    print(f"{km} km yolda bu arac {int(total*dizel)} ₺ yakıt tüketir")
 
 
 

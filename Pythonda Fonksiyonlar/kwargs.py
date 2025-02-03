@@ -11,4 +11,4 @@ def myFunc(a,b,c,*args,**kwargs):
     print(c)
     print(args)
     print(kwargs)
-myFunc(10,20,30,40,50,60,70,username="ali",password="mahmut")
+myFunc(10,20,30,40,50,60,70,username="ali",password="mahmut",no="231")
